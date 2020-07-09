@@ -1,0 +1,13 @@
+{
+    "name": "ggholmes/receive-sms-delivery-receipt",
+    "authors": [
+        {
+            "name": "Greg Holmes",
+            "email": "greg.holmes2@vonage.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.1"
+    }
+}
